@@ -1,26 +1,29 @@
 <template>
-    <nav>
+  <nav>
     <input type="checkbox" id="check" />
     <label for="check" class="checkbtn">
       <i class="fa-solid fa-bars"></i>
     </label>
     <router-link to="/" class="enlace"
-      ><img
-        src=""
-        alt="Logo"
-        class="logo"
+      ><img src="./assets/logo.png" alt="Logo" class="logo"
     /></router-link>
     <ul>
       <li><router-link to="/">Inicio</router-link></li>
       <li><router-link to="/about">Sobre Nosotros</router-link></li>
-      <li><router-link to="/article">Artículos</router-link></li>
+      <li class="last"><router-link to="/article">Artículos</router-link></li>
+      <li class="user">
+        <router-link to="/login">Iniciar sesión</router-link>
+      </li>
+      <li class="user">
+        <router-link to="/signup">Registrarse</router-link>
+      </li>
     </ul>
   </nav>
-  <router-view/>
+  <router-view />
 </template>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Lato:ital,wght@0,100;1,100&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Fjalla+One&family=Lato:ital,wght@0,100;1,100&display=swap");
 * {
   padding: 0;
   margin: 0;
@@ -29,12 +32,12 @@
   box-sizing: border-box;
 }
 
-body{
-  background-color: #B1D1F1;
+body {
+  background-color: #b1d1f1;
 }
 
 #app {
-  font-family: 'Fjalla One', sans-serif;
+  font-family: "Fjalla One", sans-serif;
 }
 
 .enlace {
@@ -46,6 +49,7 @@ body{
   height: 70px;
   width: 95px;
   margin-top: -15px;
+  border-radius:50%;
 }
 
 nav {
@@ -75,16 +79,34 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  background: #E3B505;
+  background: #e3b505;
+}
+
+nav ul .user a {
+  color: white;
+  font-size: 18px;
+  padding: 7px 13px;
+  border-radius: 3px;
+  text-transform: uppercase;
+  font-family: "Oswald", sans-serif;
+  background-color: #FF7F11;
+}
+
+nav ul .last{
+  margin-right:130px;
+}
+
+nav ul .user a:hover {
+  background: #03cea4;
 }
 
 nav a.router-link-exact-active:not(.enlace) {
-  background-color: #FF3E41;
+  background-color: #ff3e41;
   color: white;
 }
 
 nav a.router-link-exact-active:hover:not(.enlace) {
-  background: #FF3E41;
+  background: #ff3e41;
   transition: 0.5s;
 }
 
@@ -105,7 +127,6 @@ nav a.router-link-exact-active:hover:not(.enlace) {
 #check:checked ~ ul {
   left: 0;
 }
-
 
 @media (max-width: 952px) {
   .enlace {
