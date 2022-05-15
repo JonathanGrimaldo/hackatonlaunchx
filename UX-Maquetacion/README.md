@@ -3,13 +3,16 @@
 date: 15/05/2022 
 
 Como planes a futuro se planeo diseñar una apliacion web tipo red social. 
+
 ![](images/Home.png)
 
 Para ello sera necesario el usurio cree su perfil con datos como:  nombres, email, ubicación, intereses, etc.
+
 ![](images/login.png)
 
 Una vez creada la cuenta el usuario entrara a una pagina principal donde podra enterarse de los posts de las personas que sigue y proximos eventos de interes, ya sea por zona o actividad
 Por eso es que al momento de registro se le pide que ingrese sus intereses, para poder proporcionar eventos relacionados con sus gustos.
+
 ![](images/principalpage.png)
 
 Con la cuenta creada el usuario tendra un perfil y en dicho perfil el usuario podra visualizar sus followers, following y los eventos realizados
