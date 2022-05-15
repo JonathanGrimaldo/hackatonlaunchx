@@ -3,7 +3,7 @@
   <div class="image">
     <img
       src="https://images.pexels.com/photos/3157890/pexels-photo-3157890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      alt="Santuario marino"
+      alt="Santuario de vida marina"
     />
   </div>
   <div class="text-container">
