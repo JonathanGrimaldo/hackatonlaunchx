@@ -1,11 +1,9 @@
 # Diseño UX para una futura APP
 
-date: 15/06/2022
-
-<<<<<<< HEAD
+date: 
 Como planes a futuro se planeo una apliacion web tipo red social 
 ![Pagina De Inicio](Home.png)
-=======
+
 Como planes a futuro se planeo una apliacion web tipo red social donde el usuario tendrá su propio perfil 
 ![](images/principalpage.png)
 
@@ -13,9 +11,6 @@ En dicho perfil el usuario podra visualizar sus followers, following y los event
 Una forma de destacar a cada usuario es el hecho de que en sus perfil se podra observar medallas las cuales son producto de participar en diferentes eventos 
 
 
-
-
->>>>>>> 5e53ef660f23d369b5baf3db419d84ab71700594
 
 Por lo cual se añade una pagina donde el usuario ingresa datos basicos como: nombres, email, ubicación, intereses, etc.
 ![Pagina de Registro](login.png)
@@ -28,4 +23,4 @@ Una forma de destacar a cada usuario es el hecho de que en sus perfil se podra o
 ![Perfil de Usuario](perfil-page.png)
 
 El proyecto a futuro tiene la finalidad de combatir la desinformación y el desinteres de las personas, es por eso que la red social motivará a los usuario a compartir sus experiencias 
-:
+
