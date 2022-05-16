@@ -12,12 +12,14 @@ Proyecto realizado para el hackaton : **HACK THE OCEAN** :ocean:
 ## Eje Temactico :turtle:
 Cuidado Y Preservacion de Especies Marinas 
 
-## Problematica
+## Problematica :loudspeaker:
 Desinformación y falta de un medio que centralice las organizaciones/fundaciones que permitan a la sociedad informarse y participar en el cuidado y protección de las especies.
 
-## Solucion
+## Solucion :wrench:
 Creación de un sitio web que exponga los santuarios de vida marina; organizaciones que se encargan de proteger especies que habitan en estos y eventos que permitan la interacción del usuario para apoyar a la causa.
 
 > La conservación es un estado de armonía entre hombre y tierra
-> Aldo Leopold
+> - *Aldo Leopold*
+
+
 
