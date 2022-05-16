@@ -9,10 +9,10 @@ Proyecto realizado para el hackaton : **HACK THE OCEAN** :ocean:
 |Miguel Trujillo López|https://github.com/migueltrujillo07|
 |Jonathan Grimaldo Rodriguez|https://github.com/JonathanGrimaldo|
 
-## Eje Temactico :turtle:
-Cuidado Y Preservacion de Especies Marinas 
+## Eje Temático :turtle:
+Cuidado Y Preservación de Especies Marinas 
 
-## Problematica :loudspeaker:
+## Problemática :loudspeaker:
 Desinformación y falta de un medio que centralice las organizaciones/fundaciones que permitan a la sociedad informarse y participar en el cuidado y protección de las especies.
 
 ## Solucion :wrench:
