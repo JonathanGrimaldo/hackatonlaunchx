@@ -4,9 +4,9 @@
     <label for="check" class="checkbtn">
       <i class="fa-solid fa-bars"></i>
     </label>
-    <router-link to="/" class="enlace"
-      ><img src="./assets/logo.png" alt="Logo" class="logo"
-    /></router-link>
+    <router-link to="/" class="enlace">
+    <img src="./assets/logo.png" alt="Logo" class="logo"/>
+    </router-link>
     <ul>
       <li><router-link to="/">Inicio</router-link></li>
       <li><router-link to="/about">Sobre Nosotros</router-link></li>
