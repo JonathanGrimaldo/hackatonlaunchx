@@ -21,9 +21,17 @@ Creación de un sitio web que exponga los santuarios de vida marina; organizacio
 ## Tecnologías Utilizadas :computer:
 
 - JavaScrip 
+- Node.js
+- Prisma Express Js
 - HTML
 - Azure
 - Vue
+- PostgreSQL
+
+
+Utilizamos un repositorio adicional para construir la arquitectura de la base de datos, y crear la API, puedes visitar el repositorio en la siguiente liga https://github.com/AndreaCuriel/Ocean_Heroes_API
+
+En este repositorio se construyo el mock-up de la interfaz de usuario, y la integración de un mapa dinamico, que tambien fue integrado de manera independiente a los componentes de Vue.
 
 > La conservación es un estado de armonía entre hombre y tierra
 > - *Aldo Leopold*
