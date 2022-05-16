@@ -45,7 +45,7 @@ La parte principal de este proyecto es un mapa interactivo realizado con la libr
 
 Cada uno de estos puntos esta representado con un marcador diferente, el área marcada indica el área en la que se encuentran los santuarios.
 
-![image](https://user-images.githubusercontent.com/99101837/168512530-8790fc57-f8d5-4275-ba1e-fc17b6e89af8.png)
+![image](https://user-images.githubusercontent.com/99101837/168513556-288d8010-135d-4a1b-960b-684f46dea9a5.png)
 
 
 2. **Sobre Nosotros**  
