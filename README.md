@@ -19,10 +19,11 @@ Desinformación y falta de un medio que centralice las organizaciones/fundacione
 Creación de un sitio web que exponga los santuarios de vida marina; organizaciones que se encargan de proteger especies que habitan en estos y eventos que permitan la interacción del usuario para apoyar a la causa.
 
 ## Tecnologías Utilizadas :computer:
-[![JavaScrip]()]
-[![HTML]()]
-[![Azure]()]
-[![Vue]()]
+
+JavaScrip 
+HTML
+Azure
+Vue
 
 > La conservación es un estado de armonía entre hombre y tierra
 > - *Aldo Leopold*
